@@ -1,0 +1,82 @@
+{
+    "Vanya": {
+        "math": "4",
+        "russian": "5",
+        "history": "3",
+        "english": "4",
+        "art": "4",
+        "biology": "5",
+        "phys": "5",
+        "lit": "3"     
+     },
+    "Masha": {
+        "math": "5",
+        "russian": "5",
+        "history": "4",
+        "english": "3",
+        "art": "5",
+        "biology": "3",
+        "phys": "4",
+        "lit": "4"     
+     },
+    "Igor": {
+        "math": "3",
+        "russian": "3",
+        "history": "3",
+        "english": "5",
+        "art": "5",
+        "biology": "3",
+        "phys": "5",
+        "lit": "5"     
+     },
+    "Sasha": {
+        "math": "3",
+        "russian": "4",
+        "history": "4",
+        "english": "4",
+        "art": "4",
+        "biology": "5",
+        "phys": "5",
+        "lit": "4"     
+     },
+    "Nastya": {
+        "math": "5",
+        "russian": "5",
+        "history": "5",
+        "english": "5",
+        "art": "5",
+        "biology": "4",
+        "phys": "5",
+        "lit": "4"     
+     },
+    "Petya": {
+        "math": "3",
+        "russian": "4",
+        "history": "3",
+        "english": "4",
+        "art": "5",
+        "biology": "5",
+        "phys": "5",
+        "lit": "4"     
+     },
+    "Sonya": {
+        "math": "5",
+        "russian": "5",
+        "history": "4",
+        "english": "4",
+        "art": "3",
+        "biology": "4",
+        "phys": "5",
+        "lit": "4"     
+     },
+    "Gosha": {
+        "math": "3",
+        "russian": "3",
+        "history": "3",
+        "english": "3",
+        "art": "4",
+        "biology": "3",
+        "phys": "3",
+        "lit": "3"     
+     }
+}
